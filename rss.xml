@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Strawberry Estate]]></title>
         <description><![CDATA[Strawberry Estate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/strawberry-estate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 03:26:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 03:29:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/strawberry-estate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined5912c3dc-edec-478c-b385-deefe52e1b2c/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37903649-c5d2-49c1-b4b1-8f759a3e45a9.jpg">]]></description>
+            <link>https://thegrid.ai/strawberry-estate/af249ac6-af55-4200-9015-1388bf4b04df/index.html</link>
+            <guid isPermaLink="false">af249ac6-af55-4200-9015-1388bf4b04df</guid>
+            <pubDate>Wed, 13 Apr 2016 03:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Strawberry Estate produces property management software that makes it easier for property managers to manage tenants and landlords.</p>]]></description>
+            <link>https://thegrid.ai/strawberry-estate/5912c3dc-edec-478c-b385-deefe52e1b2c/index.html</link>
             <guid isPermaLink="false">5912c3dc-edec-478c-b385-deefe52e1b2c</guid>
             <pubDate>Wed, 13 Apr 2016 03:26:34 GMT</pubDate>
         </item>
