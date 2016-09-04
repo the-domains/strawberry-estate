@@ -24,6 +24,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Property Manager
+    url: 'https://propertymanager.strawberry-estate.com'
+    type: external
 favicon: null
 collections:
   - index:
