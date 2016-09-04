@@ -19,6 +19,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6084632d-96a5-4f1b-b127-c2d273a48458.png
 name: Strawberry Estate
 cta:
   bucket: null
@@ -34,7 +36,8 @@ navigation:
   - name: Tenant View
     url: 'https://tenantview.strawberry-estate.com'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe377525-ffee-412a-8929-fbcb0bd20661.ico
 collections:
   - index:
       path: /
