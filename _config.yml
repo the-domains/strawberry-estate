@@ -28,6 +28,9 @@ navigation:
   - name: Property Manager
     url: 'https://propertymanager.strawberry-estate.com'
     type: external
+  - name: Landlord View
+    url: 'https://landlordview.strawberry-estate.com'
+    type: external
 favicon: null
 collections:
   - index:
