@@ -31,7 +31,7 @@ navigation:
   - name: Landlord View
     url: 'https://landlordview.strawberry-estate.com'
     type: external
-  - name: Renant View
+  - name: Tenant View
     url: 'https://tenantview.strawberry-estate.com'
     type: external
 favicon: null
