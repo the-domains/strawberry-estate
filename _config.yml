@@ -1,9 +1,30 @@
-favicon: null
-name: Strawberry Estate
+typography_spectrum: 0.3020207234658301
+color:
+  saturation: 0.1776958690024912
+  brandStrength: 0.377551
+  lightness: 0.1693992533255368
+  brandColors:
+    - '#000000'
+    - '#8b0506'
+    - '#80972e'
+    - '#ffffff'
+    - '#404000'
+  rhythmicContrast: 0.7720348697621375
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.1778271263465285
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Strawberry Estate
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Cloud Based Property Management
 purpose: []
-color:
-  saturation: 0.1776958690024912
-  brandStrength: 0.377551
-  lightness: 0.1693992533255368
-  brandColors:
-    - '#000000'
-    - '#8b0506'
-    - '#80972e'
-    - '#ffffff'
-    - '#404000'
-  rhythmicContrast: 0.7720348697621375
-typography_spectrum: 0.3020207234658301
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.1778271263465285
-analytics:
-  twitter: null
-  google: null
-  facebook: null
