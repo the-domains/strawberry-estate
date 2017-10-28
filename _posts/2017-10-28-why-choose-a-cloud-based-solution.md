@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   With a cloud based solution you get a solution that is available to all of
   your employees (from anywhere in the world) 24 x 7.
-dateModified: '2017-10-28T21:32:47.071Z'
-datePublished: '2017-10-28T21:32:47.216Z'
+dateModified: '2017-10-28T21:35:40.301Z'
+datePublished: '2017-10-28T21:35:40.998Z'
 title: Why Choose a Cloud Based Solution?
 author: []
 publisher: {}
@@ -25,4 +25,4 @@ With cloud based systems you do not have to invest in hardware that needs to be 
 
 Additionally, we allow you to "skin" the landlord and tenant portals so that the experience for your customers is seamless and supports your marketing brand.
 
-Best of all, you can start today with the first month being free.
+Best of all, you can start today with the first month free.
