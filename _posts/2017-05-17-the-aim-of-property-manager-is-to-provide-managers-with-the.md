@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Property Manager is designed to give you, the manager, tools to do your work
   efficiently and quickly.
-dateModified: '2017-10-28T20:54:28.476Z'
-datePublished: '2017-10-28T20:54:28.596Z'
+dateModified: '2017-10-28T21:32:38.368Z'
+datePublished: '2017-10-28T21:32:38.699Z'
 title: Work Smarter.
 author: []
 publisher: {}
