@@ -2,14 +2,22 @@
     <channel>
         <title><![CDATA[Strawberry Estate]]></title>
         <description><![CDATA[Strawberry Estate]]></description>
-        <link>https://thegrid.ai/strawberry-estate/</link>
+        <link>http://strawberryestate.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 04:28:28 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/strawberry-estate/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 Oct 2017 20:53:33 GMT</lastBuildDate>
+        <atom:link href="http://strawberryestate.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 28 Oct 2017 20:53:32 GMT</pubDate>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37903649-c5d2-49c1-b4b1-8f759a3e45a9.jpg">]]></description>
-            <link>https://thegrid.ai/strawberry-estate/af249ac6-af55-4200-9015-1388bf4b04df/index.html</link>
+            <title><![CDATA[Work Smarter.]]></title>
+            <description><![CDATA[<h1>Work Smarter.</h1>,<p>Property Manager is designed to give you, the manager, tools to do your work efficiently and quickly.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99bdb21b-3229-4959-a788-abbcd97a0330.jpg">]]></description>
+            <link>http://strawberryestate.com/the-aim-of-property-manager-is-to-provide-managers-with-the/index.html</link>
+            <guid isPermaLink="false">c52c6151-0e12-4a97-b8ce-5ed269be267a</guid>
+            <pubDate>Wed, 17 May 2017 01:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Be More Efficient]]></title>
+            <description><![CDATA[<h1>Be More Efficient</h1>,<p>Track incoming and outgoings.</p>,<p>Such as:</p>,<ul><li>Rent Receipts</li><li>Bill payments</li><li>Job Payments</li><li>Landlord Payments</li><li>etc</li></ul>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbad1068-a6b9-4160-840f-508951d60ff4.jpg">]]></description>
+            <link>http://strawberryestate.com/af249ac6-af55-4200-9015-1388bf4b04df/index.html</link>
             <guid isPermaLink="false">af249ac6-af55-4200-9015-1388bf4b04df</guid>
             <pubDate>Wed, 13 Apr 2016 03:51:39 GMT</pubDate>
         </item>
