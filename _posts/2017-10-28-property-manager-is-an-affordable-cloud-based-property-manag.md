@@ -4,8 +4,8 @@ description: >-
   Property Manager is an affordable cloud based property management solution.
   Providing property managers and property investors with the necessary tools to
   be able to run a successful rental business.
-dateModified: '2017-10-28T20:54:04.106Z'
-datePublished: '2017-10-28T20:54:04.818Z'
+dateModified: '2017-10-28T20:54:28.476Z'
+datePublished: '2017-10-28T20:54:28.594Z'
 title: ''
 author: []
 publisher: {}
