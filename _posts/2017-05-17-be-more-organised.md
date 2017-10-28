@@ -5,8 +5,8 @@ description: >-
   module you can transfer funds directly to the tradespersons bank account. The
   entire process is lined with the Landlord Application and Tenant application
   so that all parties are kept in synch.
-dateModified: '2017-10-28T21:32:38.368Z'
-datePublished: '2017-10-28T21:32:38.715Z'
+dateModified: '2017-10-28T21:32:47.071Z'
+datePublished: '2017-10-28T21:32:47.278Z'
 title: Be more organised
 author: []
 publisher: {}
