@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Create inspection reports and detail the condition of the property. Images can
   be attached to the assessment to illustrate what has been stated.
-dateModified: '2017-10-28T21:32:38.368Z'
-datePublished: '2017-10-28T21:32:38.711Z'
+dateModified: '2017-10-28T21:32:47.071Z'
+datePublished: '2017-10-28T21:32:47.277Z'
 title: Be Attentive
 author: []
 publisher: {}
