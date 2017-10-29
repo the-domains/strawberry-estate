@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   With a cloud based solution you get a solution that is available to all of
   your employees (from anywhere in the world) 24 x 7.
-dateModified: '2017-10-29T22:08:44.419Z'
-datePublished: '2017-10-29T22:08:47.268Z'
+dateModified: '2017-10-29T22:10:40.984Z'
+datePublished: '2017-10-29T22:10:42.544Z'
 title: Why Choose a Cloud Based Solution?
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-28T21:22:41.122Z'
 url: why-choose-a-cloud-based-solution/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Why Choose a Cloud Based Solution?
