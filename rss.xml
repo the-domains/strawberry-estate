@@ -4,9 +4,9 @@
         <description><![CDATA[Strawberry Estate]]></description>
         <link>http://strawberryestate.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Oct 2017 21:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2017 22:08:49 GMT</lastBuildDate>
         <atom:link href="http://strawberryestate.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Oct 2017 21:32:49 GMT</pubDate>
+        <pubDate>Sun, 29 Oct 2017 22:08:47 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Property Manager is an affordable cloud based property management solution. Providing property managers and property investors with the necessary tools to be able to run a successful rental business.</p>]]></description>
@@ -27,6 +27,13 @@
             <link>http://strawberryestate.com/af249ac6-af55-4200-9015-1388bf4b04df/index.html</link>
             <guid isPermaLink="false">af249ac6-af55-4200-9015-1388bf4b04df</guid>
             <pubDate>Wed, 13 Apr 2016 03:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Choose a Cloud Based Solution?]]></title>
+            <description><![CDATA[<h1>Why Choose a Cloud Based Solution?</h1>,<p>With a cloud based solution you get a solution that is available to all of your employees (from anywhere in the world) 24 x 7.</p>,<p>There are no software costs or annual maintenance fees. You get free software upgrades and requests for new functionality can be developed and implemented quickly without long software development cycles.</p>,<p>With cloud based systems you do not have to invest in hardware that needs to be replaced every 3 years. There is no need to hire a systems administrator to maintain your system so that it remains up to date, virus free and secure.</p>,<p>Additionally, we allow you to “skin” the landlord and tenant portals so that the experience for your customers is seamless and supports your marketing brand.</p>,<p>Best of all, you can start today with the first month free.</p>]]></description>
+            <link>http://strawberryestate.com/why-choose-a-cloud-based-solution/index.html</link>
+            <guid isPermaLink="false">3a8fae18-58ef-46cc-9e40-018ed46a0a34</guid>
+            <pubDate>Sat, 28 Oct 2017 21:22:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
