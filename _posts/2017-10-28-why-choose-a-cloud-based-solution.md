@@ -1,22 +1,21 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   With a cloud based solution you get a solution that is available to all of
   your employees (from anywhere in the world) 24 x 7. There are no software
   costs or annual maintenance fees. You get free software upgrades and requests
   for new functionality can be developed and implemented quickly without long
   software development cycles.
-dateModified: '2017-10-29T22:12:13.760Z'
-datePublished: '2017-10-29T22:12:14.451Z'
+dateModified: '2017-10-29T22:12:31.382Z'
+datePublished: '2017-10-29T22:12:32.167Z'
 title: Why Choose a Cloud Based Solution?
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-10-28-why-choose-a-cloud-based-solution.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-10-28T21:22:41.122Z'
-url: why-choose-a-cloud-based-solution/index.html
 _type: Blurb
 
 ---
